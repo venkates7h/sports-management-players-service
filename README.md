@@ -1,1 +1,0 @@
-# sports-management-player-service
